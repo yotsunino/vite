@@ -36,6 +36,7 @@ export const KNOWN_ASSET_TYPES = [
   'flac',
   'aac',
   'opus',
+  'm4a', // added: common audio format often missing from asset handling
 
   // fonts
   'woff2',
