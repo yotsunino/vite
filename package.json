@@ -52,5 +52,6 @@
   "engines": {
     "node": "^18.0.0 || >=20.0.0"
   },
-  "packageManager": "pnpm@8.11.0"
+  "packageManager": "pnpm@8.11.0",
+  "_note": "Personal fork for learning vite internals. Upstream: https://github.com/vitejs/vite"
 }
